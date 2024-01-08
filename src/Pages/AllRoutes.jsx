@@ -5,7 +5,7 @@ import Homepage from "./Homepage";
 import Loginpage from "./Loginpage";
 import Paymentspage from "./Paymentspage";
 import SingleProductPage from "./SingleProductPage";
-import Productspage from "./Productspage";
+import Productspage from "./productspage";
 import Settings from "./Settings";
 import Signuppage from "./Signuppage";
 

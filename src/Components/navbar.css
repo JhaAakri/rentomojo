@@ -9,3 +9,27 @@
   transition: box-shadow 0.3s ease-in-out;
 }
 /*navbar Start*/
+.navbar {
+  position: sticky;
+  position: -webkit-sticky;
+  /* z-index: 1; */
+  z-index: 5;
+  top: 0;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  transition: box-shadow 0.3s ease-in-out;
+}
+/*navbar Start*/
+
+.cat{
+  height: 450px;
+}
+/* Stack:hover Button {
+  display: inline-flex;
+} */
+@media only screen and (max-width: 767px) {
+  /* Your styles for smartphones go here */
+ .navbar{
+    max-width: 100%;
+  }
+}
