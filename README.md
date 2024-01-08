@@ -4,7 +4,7 @@
 
 ## About this project.
 This project is built by us (5 team members) during construct week of unit 3 at Masai School.
-Netlify link:- https://rentomojo-clone.netlify.app 
+Netlify link:- [https://rentomojo-clone.netlify.app](https://rentomojo-kappa.vercel.app/) 
 
 ## Team Members.
 1.	Ms. Aakriti
